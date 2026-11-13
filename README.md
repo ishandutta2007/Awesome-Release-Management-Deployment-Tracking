@@ -27,6 +27,7 @@
   - [Open-Source Software Deep-Dives](#open-source-software-deep-dives)
 - [📊 Comparison at a Glance](#-comparison-at-a-glance)
 - [🤝 Contributing](#-contributing)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⭐ Star History](#-star-history)
 - [📄 License](#-license)
 
@@ -219,7 +220,26 @@ Please ensure the project is actively maintained with releases within the last 1
 
 ##  Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Release-Management-Deployment-Tracking&type=Date)](https://star-history.com/#ishandutta2007/Awesome-Release-Management-Deployment-Tracking&Date)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Release-Management-Deployment-Tracking&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Release-Management-Deployment-Tracking&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using **Awesome Release Management & Deployment Tracking**! Maintaining and curating this collection takes dedication, continuous research, and time.
+
+If this repository has helped you in your work, architectural decisions, or DevOps journey, please consider showing your support:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and contribute** by adding new tools or updating details.
+- 📢 **Share it** with your network, team, and developer communities.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to back this and future open-source projects, you can sponsor through the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007):
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+</p>
 
 ---
 
