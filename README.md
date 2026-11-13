@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Release-Management-Deployment-Tracking/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Release-Management-Deployment-Tracking?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Release-Management-Deployment-Tracking/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Release-Management-Deployment-Tracking?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Release-Management-Deployment-Tracking/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Release-Management-Deployment-Tracking?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Release-Management-Deployment-Tracking/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-green.svg?style=flat-square" alt="License: CC0-1.0"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followsrs/ishandutta2007?label=Follow" /></a>
@@ -108,7 +108,7 @@ Self-hosted, community-driven Release Management and Deployment Tracking tools s
 
 *Sorted in descending order by GitHub stargazer count.*
 
-| Project | GitHub Stars Badge | Primary Stack | License | Core Focus |
+| Project | GitHub_Stars_Badge | Primary Stack | License | Core Focus |
 | :--- | :--- | :--- | :--- | :--- |
 | **Argo CD** | [![Argo CD Stars](https://img.shields.io/github/stars/argoproj/argo-cd?style=social&color=white)](https://github.com/argoproj/argo-cd/stargazers) | Go / Kubernetes | Apache 2.0 | Declarative GitOps continuous delivery & environment sync for Kubernetes |
 | **Spinnaker** | [![Spinnaker Stars](https://img.shields.io/github/stars/spinnaker/spinnaker?style=social&color=white)](https://github.com/spinnaker/spinnaker/stargazers) | Java / Python / Go | Apache 2.0 | Enterprise multi-cloud continuous delivery & automated blue/green pipelines |
@@ -209,7 +209,7 @@ Contributions are warmly welcome! If you know of an outstanding open-source Rele
 
 1. 🍴 Fork the repository.
 2. 🌿 Create your feature branch (`git checkout -b feature/awesome-tool`).
-3. 📝 Add your project with description, technology stack, license, and star badge.
+3. 📝 Add your project with description, technology stack, license, and Stars_Badge.
 4. 🚀 Commit your changes (`git commit -m 'Add awesome tool'`).
 5. 📤 Push to the branch (`git push origin feature/awesome-tool`).
 6. 🎯 Open a Pull Request.
